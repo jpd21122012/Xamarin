@@ -1,0 +1,1 @@
+C:\Users\slipk\Documents\Curso Xamarin\EjercicioBase\EnviarCorreo.Forms\EnviarCorreo.Forms.Droid\obj\Debug\EnviarCorreo.Forms.Droid.csprojResolveAssemblyReference.cache
