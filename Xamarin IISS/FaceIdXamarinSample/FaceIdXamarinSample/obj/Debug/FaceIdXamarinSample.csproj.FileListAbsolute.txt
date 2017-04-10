@@ -1,0 +1,109 @@
+c:\users\diego\onedrive\documentos\visual studio 2017\Projects\FaceIdXamarinSample\FaceIdXamarinSample\FaceIdXamarinSample\bin\Debug\FaceIdXamarinSample.dll.config
+c:\users\diego\onedrive\documentos\visual studio 2017\Projects\FaceIdXamarinSample\FaceIdXamarinSample\FaceIdXamarinSample\bin\Debug\FaceIdXamarinSample.dll
+c:\users\diego\onedrive\documentos\visual studio 2017\Projects\FaceIdXamarinSample\FaceIdXamarinSample\FaceIdXamarinSample\bin\Debug\FaceIdXamarinSample.pdb
+c:\users\diego\onedrive\documentos\visual studio 2017\Projects\FaceIdXamarinSample\FaceIdXamarinSample\FaceIdXamarinSample\bin\Debug\Microsoft.ProjectOxford.Common.dll
+c:\users\diego\onedrive\documentos\visual studio 2017\Projects\FaceIdXamarinSample\FaceIdXamarinSample\FaceIdXamarinSample\bin\Debug\Microsoft.ProjectOxford.Face.dll
+c:\users\diego\onedrive\documentos\visual studio 2017\Projects\FaceIdXamarinSample\FaceIdXamarinSample\FaceIdXamarinSample\bin\Debug\Microsoft.WindowsAzure.Mobile.dll
+c:\users\diego\onedrive\documentos\visual studio 2017\Projects\FaceIdXamarinSample\FaceIdXamarinSample\FaceIdXamarinSample\bin\Debug\Newtonsoft.Json.dll
+c:\users\diego\onedrive\documentos\visual studio 2017\Projects\FaceIdXamarinSample\FaceIdXamarinSample\FaceIdXamarinSample\bin\Debug\Plugin.Media.Abstractions.dll
+c:\users\diego\onedrive\documentos\visual studio 2017\Projects\FaceIdXamarinSample\FaceIdXamarinSample\FaceIdXamarinSample\bin\Debug\Plugin.Media.dll
+c:\users\diego\onedrive\documentos\visual studio 2017\Projects\FaceIdXamarinSample\FaceIdXamarinSample\FaceIdXamarinSample\bin\Debug\System.Net.Http.dll
+c:\users\diego\onedrive\documentos\visual studio 2017\Projects\FaceIdXamarinSample\FaceIdXamarinSample\FaceIdXamarinSample\bin\Debug\System.Net.Http.Extensions.dll
+c:\users\diego\onedrive\documentos\visual studio 2017\Projects\FaceIdXamarinSample\FaceIdXamarinSample\FaceIdXamarinSample\bin\Debug\System.Net.Http.Primitives.dll
+c:\users\diego\onedrive\documentos\visual studio 2017\Projects\FaceIdXamarinSample\FaceIdXamarinSample\FaceIdXamarinSample\bin\Debug\Xamarin.Forms.Core.dll
+c:\users\diego\onedrive\documentos\visual studio 2017\Projects\FaceIdXamarinSample\FaceIdXamarinSample\FaceIdXamarinSample\bin\Debug\Xamarin.Forms.Platform.dll
+c:\users\diego\onedrive\documentos\visual studio 2017\Projects\FaceIdXamarinSample\FaceIdXamarinSample\FaceIdXamarinSample\bin\Debug\Xamarin.Forms.Xaml.dll
+c:\users\diego\onedrive\documentos\visual studio 2017\Projects\FaceIdXamarinSample\FaceIdXamarinSample\FaceIdXamarinSample\bin\Debug\Microsoft.WindowsAzure.Mobile.xml
+c:\users\diego\onedrive\documentos\visual studio 2017\Projects\FaceIdXamarinSample\FaceIdXamarinSample\FaceIdXamarinSample\bin\Debug\Newtonsoft.Json.xml
+c:\users\diego\onedrive\documentos\visual studio 2017\Projects\FaceIdXamarinSample\FaceIdXamarinSample\FaceIdXamarinSample\bin\Debug\Plugin.Media.pdb
+c:\users\diego\onedrive\documentos\visual studio 2017\Projects\FaceIdXamarinSample\FaceIdXamarinSample\FaceIdXamarinSample\bin\Debug\Plugin.Media.xml
+c:\users\diego\onedrive\documentos\visual studio 2017\Projects\FaceIdXamarinSample\FaceIdXamarinSample\FaceIdXamarinSample\bin\Debug\Plugin.Media.Abstractions.pdb
+c:\users\diego\onedrive\documentos\visual studio 2017\Projects\FaceIdXamarinSample\FaceIdXamarinSample\FaceIdXamarinSample\bin\Debug\Plugin.Media.Abstractions.xml
+c:\users\diego\onedrive\documentos\visual studio 2017\Projects\FaceIdXamarinSample\FaceIdXamarinSample\FaceIdXamarinSample\bin\Debug\System.Net.Http.xml
+c:\users\diego\onedrive\documentos\visual studio 2017\Projects\FaceIdXamarinSample\FaceIdXamarinSample\FaceIdXamarinSample\bin\Debug\System.Net.Http.Extensions.xml
+c:\users\diego\onedrive\documentos\visual studio 2017\Projects\FaceIdXamarinSample\FaceIdXamarinSample\FaceIdXamarinSample\bin\Debug\System.Net.Http.Primitives.xml
+c:\users\diego\onedrive\documentos\visual studio 2017\Projects\FaceIdXamarinSample\FaceIdXamarinSample\FaceIdXamarinSample\bin\Debug\Xamarin.Forms.Core.pdb
+c:\users\diego\onedrive\documentos\visual studio 2017\Projects\FaceIdXamarinSample\FaceIdXamarinSample\FaceIdXamarinSample\bin\Debug\Xamarin.Forms.Core.xml
+c:\users\diego\onedrive\documentos\visual studio 2017\Projects\FaceIdXamarinSample\FaceIdXamarinSample\FaceIdXamarinSample\bin\Debug\Xamarin.Forms.Platform.pdb
+c:\users\diego\onedrive\documentos\visual studio 2017\Projects\FaceIdXamarinSample\FaceIdXamarinSample\FaceIdXamarinSample\bin\Debug\Xamarin.Forms.Xaml.pdb
+c:\users\diego\onedrive\documentos\visual studio 2017\Projects\FaceIdXamarinSample\FaceIdXamarinSample\FaceIdXamarinSample\bin\Debug\Xamarin.Forms.Xaml.xml
+c:\users\diego\onedrive\documentos\visual studio 2017\Projects\FaceIdXamarinSample\FaceIdXamarinSample\FaceIdXamarinSample\obj\Debug\FaceIdXamarinSample.csproj.App.config
+c:\users\diego\onedrive\documentos\visual studio 2017\Projects\FaceIdXamarinSample\FaceIdXamarinSample\FaceIdXamarinSample\obj\Debug\FaceIdXamarinSample.csprojResolveAssemblyReference.cache
+c:\users\diego\onedrive\documentos\visual studio 2017\Projects\FaceIdXamarinSample\FaceIdXamarinSample\FaceIdXamarinSample\obj\Debug\FaceIdXamarinSample.MainPage.xaml.g.cs
+c:\users\diego\onedrive\documentos\visual studio 2017\Projects\FaceIdXamarinSample\FaceIdXamarinSample\FaceIdXamarinSample\obj\Debug\FaceIdXamarinSample.App.xaml.g.cs
+c:\users\diego\onedrive\documentos\visual studio 2017\Projects\FaceIdXamarinSample\FaceIdXamarinSample\FaceIdXamarinSample\obj\Debug\FaceIdXamarinSample.dll
+c:\users\diego\onedrive\documentos\visual studio 2017\Projects\FaceIdXamarinSample\FaceIdXamarinSample\FaceIdXamarinSample\obj\Debug\FaceIdXamarinSample.pdb
+c:\users\diego\onedrive\documentos\visual studio 2017\Projects\FaceIdXamarinSample\FaceIdXamarinSample\FaceIdXamarinSample\obj\Debug\FaceIdXamarinSample.dll.mdb
+c:\users\diego\onedrive\documentos\visual studio 2017\Projects\FaceIdXamarinSample\FaceIdXamarinSample\FaceIdXamarinSample\bin\Debug\FaceIdXamarinSample.dll.mdb
+C:\Users\diego\Desktop\FaceIdXamarinSample\FaceIdXamarinSample\FaceIdXamarinSample\bin\Debug\FaceIdXamarinSample.dll.config
+C:\Users\diego\Desktop\FaceIdXamarinSample\FaceIdXamarinSample\FaceIdXamarinSample\bin\Debug\FaceIdXamarinSample.dll
+C:\Users\diego\Desktop\FaceIdXamarinSample\FaceIdXamarinSample\FaceIdXamarinSample\bin\Debug\FaceIdXamarinSample.pdb
+C:\Users\diego\Desktop\FaceIdXamarinSample\FaceIdXamarinSample\FaceIdXamarinSample\bin\Debug\Microsoft.ProjectOxford.Common.dll
+C:\Users\diego\Desktop\FaceIdXamarinSample\FaceIdXamarinSample\FaceIdXamarinSample\bin\Debug\Microsoft.ProjectOxford.Face.dll
+C:\Users\diego\Desktop\FaceIdXamarinSample\FaceIdXamarinSample\FaceIdXamarinSample\bin\Debug\Microsoft.WindowsAzure.Mobile.dll
+C:\Users\diego\Desktop\FaceIdXamarinSample\FaceIdXamarinSample\FaceIdXamarinSample\bin\Debug\Newtonsoft.Json.dll
+C:\Users\diego\Desktop\FaceIdXamarinSample\FaceIdXamarinSample\FaceIdXamarinSample\bin\Debug\Plugin.Media.Abstractions.dll
+C:\Users\diego\Desktop\FaceIdXamarinSample\FaceIdXamarinSample\FaceIdXamarinSample\bin\Debug\Plugin.Media.dll
+C:\Users\diego\Desktop\FaceIdXamarinSample\FaceIdXamarinSample\FaceIdXamarinSample\bin\Debug\System.Net.Http.dll
+C:\Users\diego\Desktop\FaceIdXamarinSample\FaceIdXamarinSample\FaceIdXamarinSample\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\diego\Desktop\FaceIdXamarinSample\FaceIdXamarinSample\FaceIdXamarinSample\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\diego\Desktop\FaceIdXamarinSample\FaceIdXamarinSample\FaceIdXamarinSample\bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\diego\Desktop\FaceIdXamarinSample\FaceIdXamarinSample\FaceIdXamarinSample\bin\Debug\Xamarin.Forms.Platform.dll
+C:\Users\diego\Desktop\FaceIdXamarinSample\FaceIdXamarinSample\FaceIdXamarinSample\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\diego\Desktop\FaceIdXamarinSample\FaceIdXamarinSample\FaceIdXamarinSample\bin\Debug\Microsoft.WindowsAzure.Mobile.xml
+C:\Users\diego\Desktop\FaceIdXamarinSample\FaceIdXamarinSample\FaceIdXamarinSample\bin\Debug\Newtonsoft.Json.xml
+C:\Users\diego\Desktop\FaceIdXamarinSample\FaceIdXamarinSample\FaceIdXamarinSample\bin\Debug\Plugin.Media.pdb
+C:\Users\diego\Desktop\FaceIdXamarinSample\FaceIdXamarinSample\FaceIdXamarinSample\bin\Debug\Plugin.Media.xml
+C:\Users\diego\Desktop\FaceIdXamarinSample\FaceIdXamarinSample\FaceIdXamarinSample\bin\Debug\Plugin.Media.Abstractions.pdb
+C:\Users\diego\Desktop\FaceIdXamarinSample\FaceIdXamarinSample\FaceIdXamarinSample\bin\Debug\Plugin.Media.Abstractions.xml
+C:\Users\diego\Desktop\FaceIdXamarinSample\FaceIdXamarinSample\FaceIdXamarinSample\bin\Debug\System.Net.Http.xml
+C:\Users\diego\Desktop\FaceIdXamarinSample\FaceIdXamarinSample\FaceIdXamarinSample\bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\diego\Desktop\FaceIdXamarinSample\FaceIdXamarinSample\FaceIdXamarinSample\bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\diego\Desktop\FaceIdXamarinSample\FaceIdXamarinSample\FaceIdXamarinSample\bin\Debug\Xamarin.Forms.Core.pdb
+C:\Users\diego\Desktop\FaceIdXamarinSample\FaceIdXamarinSample\FaceIdXamarinSample\bin\Debug\Xamarin.Forms.Core.xml
+C:\Users\diego\Desktop\FaceIdXamarinSample\FaceIdXamarinSample\FaceIdXamarinSample\bin\Debug\Xamarin.Forms.Platform.pdb
+C:\Users\diego\Desktop\FaceIdXamarinSample\FaceIdXamarinSample\FaceIdXamarinSample\bin\Debug\Xamarin.Forms.Xaml.pdb
+C:\Users\diego\Desktop\FaceIdXamarinSample\FaceIdXamarinSample\FaceIdXamarinSample\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\diego\Desktop\FaceIdXamarinSample\FaceIdXamarinSample\FaceIdXamarinSample\obj\Debug\FaceIdXamarinSample.csproj.App.config
+C:\Users\diego\Desktop\FaceIdXamarinSample\FaceIdXamarinSample\FaceIdXamarinSample\obj\Debug\FaceIdXamarinSample.csprojResolveAssemblyReference.cache
+C:\Users\diego\Desktop\FaceIdXamarinSample\FaceIdXamarinSample\FaceIdXamarinSample\obj\Debug\FaceIdXamarinSample.MainPage.xaml.g.cs
+C:\Users\diego\Desktop\FaceIdXamarinSample\FaceIdXamarinSample\FaceIdXamarinSample\obj\Debug\FaceIdXamarinSample.App.xaml.g.cs
+C:\Users\diego\Desktop\FaceIdXamarinSample\FaceIdXamarinSample\FaceIdXamarinSample\obj\Debug\FaceIdXamarinSample.dll
+C:\Users\diego\Desktop\FaceIdXamarinSample\FaceIdXamarinSample\FaceIdXamarinSample\obj\Debug\FaceIdXamarinSample.pdb
+C:\Users\diego\Desktop\FaceIdXamarinSample\FaceIdXamarinSample\FaceIdXamarinSample\obj\Debug\FaceIdXamarinSample.dll.mdb
+C:\Users\diego\Desktop\FaceIdXamarinSample\FaceIdXamarinSample\FaceIdXamarinSample\bin\Debug\FaceIdXamarinSample.dll.mdb
+C:\Users\slipk\Desktop\xamarinFaceId-master\FaceIdXamarinSample\FaceIdXamarinSample\FaceIdXamarinSample\bin\Debug\FaceIdXamarinSample.dll.config
+C:\Users\slipk\Desktop\xamarinFaceId-master\FaceIdXamarinSample\FaceIdXamarinSample\FaceIdXamarinSample\bin\Debug\FaceIdXamarinSample.dll
+C:\Users\slipk\Desktop\xamarinFaceId-master\FaceIdXamarinSample\FaceIdXamarinSample\FaceIdXamarinSample\bin\Debug\FaceIdXamarinSample.pdb
+C:\Users\slipk\Desktop\xamarinFaceId-master\FaceIdXamarinSample\FaceIdXamarinSample\FaceIdXamarinSample\bin\Debug\Microsoft.ProjectOxford.Common.dll
+C:\Users\slipk\Desktop\xamarinFaceId-master\FaceIdXamarinSample\FaceIdXamarinSample\FaceIdXamarinSample\bin\Debug\Microsoft.ProjectOxford.Face.dll
+C:\Users\slipk\Desktop\xamarinFaceId-master\FaceIdXamarinSample\FaceIdXamarinSample\FaceIdXamarinSample\bin\Debug\Microsoft.WindowsAzure.Mobile.dll
+C:\Users\slipk\Desktop\xamarinFaceId-master\FaceIdXamarinSample\FaceIdXamarinSample\FaceIdXamarinSample\bin\Debug\Newtonsoft.Json.dll
+C:\Users\slipk\Desktop\xamarinFaceId-master\FaceIdXamarinSample\FaceIdXamarinSample\FaceIdXamarinSample\bin\Debug\Plugin.Media.Abstractions.dll
+C:\Users\slipk\Desktop\xamarinFaceId-master\FaceIdXamarinSample\FaceIdXamarinSample\FaceIdXamarinSample\bin\Debug\Plugin.Media.dll
+C:\Users\slipk\Desktop\xamarinFaceId-master\FaceIdXamarinSample\FaceIdXamarinSample\FaceIdXamarinSample\bin\Debug\System.Net.Http.dll
+C:\Users\slipk\Desktop\xamarinFaceId-master\FaceIdXamarinSample\FaceIdXamarinSample\FaceIdXamarinSample\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\slipk\Desktop\xamarinFaceId-master\FaceIdXamarinSample\FaceIdXamarinSample\FaceIdXamarinSample\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\slipk\Desktop\xamarinFaceId-master\FaceIdXamarinSample\FaceIdXamarinSample\FaceIdXamarinSample\bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\slipk\Desktop\xamarinFaceId-master\FaceIdXamarinSample\FaceIdXamarinSample\FaceIdXamarinSample\bin\Debug\Xamarin.Forms.Platform.dll
+C:\Users\slipk\Desktop\xamarinFaceId-master\FaceIdXamarinSample\FaceIdXamarinSample\FaceIdXamarinSample\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\slipk\Desktop\xamarinFaceId-master\FaceIdXamarinSample\FaceIdXamarinSample\FaceIdXamarinSample\bin\Debug\Microsoft.WindowsAzure.Mobile.xml
+C:\Users\slipk\Desktop\xamarinFaceId-master\FaceIdXamarinSample\FaceIdXamarinSample\FaceIdXamarinSample\bin\Debug\Newtonsoft.Json.xml
+C:\Users\slipk\Desktop\xamarinFaceId-master\FaceIdXamarinSample\FaceIdXamarinSample\FaceIdXamarinSample\bin\Debug\Plugin.Media.pdb
+C:\Users\slipk\Desktop\xamarinFaceId-master\FaceIdXamarinSample\FaceIdXamarinSample\FaceIdXamarinSample\bin\Debug\Plugin.Media.xml
+C:\Users\slipk\Desktop\xamarinFaceId-master\FaceIdXamarinSample\FaceIdXamarinSample\FaceIdXamarinSample\bin\Debug\Plugin.Media.Abstractions.pdb
+C:\Users\slipk\Desktop\xamarinFaceId-master\FaceIdXamarinSample\FaceIdXamarinSample\FaceIdXamarinSample\bin\Debug\Plugin.Media.Abstractions.xml
+C:\Users\slipk\Desktop\xamarinFaceId-master\FaceIdXamarinSample\FaceIdXamarinSample\FaceIdXamarinSample\bin\Debug\System.Net.Http.xml
+C:\Users\slipk\Desktop\xamarinFaceId-master\FaceIdXamarinSample\FaceIdXamarinSample\FaceIdXamarinSample\bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\slipk\Desktop\xamarinFaceId-master\FaceIdXamarinSample\FaceIdXamarinSample\FaceIdXamarinSample\bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\slipk\Desktop\xamarinFaceId-master\FaceIdXamarinSample\FaceIdXamarinSample\FaceIdXamarinSample\bin\Debug\Xamarin.Forms.Core.pdb
+C:\Users\slipk\Desktop\xamarinFaceId-master\FaceIdXamarinSample\FaceIdXamarinSample\FaceIdXamarinSample\bin\Debug\Xamarin.Forms.Core.xml
+C:\Users\slipk\Desktop\xamarinFaceId-master\FaceIdXamarinSample\FaceIdXamarinSample\FaceIdXamarinSample\bin\Debug\Xamarin.Forms.Platform.pdb
+C:\Users\slipk\Desktop\xamarinFaceId-master\FaceIdXamarinSample\FaceIdXamarinSample\FaceIdXamarinSample\bin\Debug\Xamarin.Forms.Xaml.pdb
+C:\Users\slipk\Desktop\xamarinFaceId-master\FaceIdXamarinSample\FaceIdXamarinSample\FaceIdXamarinSample\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\slipk\Desktop\xamarinFaceId-master\FaceIdXamarinSample\FaceIdXamarinSample\FaceIdXamarinSample\obj\Debug\FaceIdXamarinSample.csproj.App.config
+C:\Users\slipk\Desktop\xamarinFaceId-master\FaceIdXamarinSample\FaceIdXamarinSample\FaceIdXamarinSample\obj\Debug\FaceIdXamarinSample.csprojResolveAssemblyReference.cache
+C:\Users\slipk\Desktop\xamarinFaceId-master\FaceIdXamarinSample\FaceIdXamarinSample\FaceIdXamarinSample\obj\Debug\FaceIdXamarinSample.MainPage.xaml.g.cs
+C:\Users\slipk\Desktop\xamarinFaceId-master\FaceIdXamarinSample\FaceIdXamarinSample\FaceIdXamarinSample\obj\Debug\FaceIdXamarinSample.App.xaml.g.cs
+C:\Users\slipk\Desktop\xamarinFaceId-master\FaceIdXamarinSample\FaceIdXamarinSample\FaceIdXamarinSample\obj\Debug\FaceIdXamarinSample.dll
+C:\Users\slipk\Desktop\xamarinFaceId-master\FaceIdXamarinSample\FaceIdXamarinSample\FaceIdXamarinSample\obj\Debug\FaceIdXamarinSample.pdb

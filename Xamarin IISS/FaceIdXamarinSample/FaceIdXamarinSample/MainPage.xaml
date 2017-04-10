@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:FaceIdXamarinSample"
+             x:Class="FaceIdXamarinSample.MainPage">
+
+    <StackLayout Orientation="Vertical">
+        <Image x:Name="Image1" HeightRequest="150"/>
+        <ActivityIndicator x:Name="Indicator1" IsVisible="False" IsRunning="False" />
+
+
+        <StackLayout Orientation="Horizontal" Padding="3">
+            <Label Text=""/>
+            <Label x:Name="Result" Text="" />
+        </StackLayout>
+
+        <StackLayout Orientation="Horizontal" Padding="3">
+            <Label Text="ID: "/>
+            <Label x:Name="IDLabel" Text="{Binding Path=FaceId}" HorizontalOptions="End" VerticalOptions="End" />
+        </StackLayout>
+
+        <Button x:Name="TakePictureButton" Clicked="TakePictureButton_Clicked"
+      Text="Take from camera" />
+        <Button x:Name="UploadPictureButton" Clicked="UploadPictureButton_Clicked"
+      Text="Pick a photo"/>
+
+        <StackLayout>
+            <Label Text=""/>
+            <Label x:Name="Resultx" Text="" />
+            <Label x:Name="labelNom" Text="" />
+            <Label x:Name="labelAge" Text="" />
+            <Label x:Name="labelDesc" Text=""/>
+        </StackLayout>
+    </StackLayout>
+
+</ContentPage>

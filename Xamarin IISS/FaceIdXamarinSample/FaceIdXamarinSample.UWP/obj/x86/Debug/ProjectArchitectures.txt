@@ -1,0 +1,2 @@
+C:\Users\slipk\Desktop\xamarinFaceId-master\FaceIdXamarinSample\FaceIdXamarinSample\FaceIdXamarinSample.UWP\FaceIdXamarinSample.UWP.csproj;x86
+C:\Users\slipk\Desktop\xamarinFaceId-master\FaceIdXamarinSample\FaceIdXamarinSample\FaceIdXamarinSample\FaceIdXamarinSample.csproj;neutral
